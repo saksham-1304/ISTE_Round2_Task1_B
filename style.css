@@ -1,0 +1,15 @@
+.button{
+    display: flex;align-items: center;justify-content: center;
+    height: 90vh;
+    background-color: white;
+    
+}
+.btn{
+    padding: 25px;
+    border-radius: 20%;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+
+
+}
